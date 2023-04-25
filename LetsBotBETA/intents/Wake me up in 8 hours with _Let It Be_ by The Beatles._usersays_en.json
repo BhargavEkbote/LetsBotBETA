@@ -1,0 +1,25 @@
+[
+  {
+    "id": "6b11b542-ecf8-434c-906e-943cc83765ed",
+    "data": [
+      {
+        "text": "Wake me up ",
+        "userDefined": false
+      },
+      {
+        "text": "in 8 hours",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " with \u0027Let It Be\u0027 by The Beatles.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "id": "2d2d345b-6d4b-4d09-a27c-48b4edc31cd1",
+  "name": "I need to change my 5 AM alarm to 7 AM.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "07a13fdf-004c-4210-860a-52f6b00da8f5",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b86f53d6-b4f2-4e84-bf98-deeccbd7dd99",
+          "name": "date-time1",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "As an AI language model, I do not have the capability to directly change your alarm settings, as I do not have access to your personal devices or settings. However, I can provide you with general instructions on how you can change your alarm from 5 AM to 7 AM, assuming you are using a typical alarm clock or a clock app on a device such as a smartphone or a computer. Here\u0027s how you can do it:\n\nUsing a physical alarm clock:\n\n1. Locate your alarm clock and identify the controls for setting the alarm time. This may involve buttons, knobs, or switches, depending on the type of alarm clock you have.\n2. Adjust the alarm time by either pressing buttons, turning knobs, or flipping switches to set the desired time to 7 AM.\n3. Verify that the alarm is properly set for 7 AM by checking the alarm time display on the clock.\n\nUsing a clock app on a smartphone or computer:\n\n1. Open the clock app on your smartphone or computer. This may be a built-in clock app or a third-party clock app that you have installed.\n2. Navigate to the alarm settings or alarm clock section of the app, which allows you to set or edit alarms.\n3. Locate the existing alarm that is currently set for 5 AM and tap or click on it to edit it.\n4. Adjust the alarm time to 7 AM using the controls provided in the app.\n5. Save or apply the changes to update the alarm time to 7 AM.\n\nPlease note that the specific steps may vary depending on the type of alarm clock or clock app you are using, so it\u0027s always best to refer to the user manual or help documentation for your specific device or app for detailed instructions on how to change alarm settings.",
+            "I\u0027m sorry, but I can\u0027t help you with that. I\u0027m a chat mode of the LetsChat Social media platform, not an assistant. I can only help you with finding information on the web or generating content such as poems, stories, code, etc.",
+            "Sure! I can help you with that. What device are you using for your alarm?",
+            "Sure! What device or app are you using to set your alarm?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "As an AI language model, I do not have the capability to directly change your alarm settings, as I do not have access to your personal devices or settings. However, I can provide you with general instructions on how you can change your alarm from 5 AM to 7 AM, assuming you are using a typical alarm clock or a clock app on a device such as a smartphone or a computer. Here\u0027s how you can do it:\n\nUsing a physical alarm clock:\n\n1. Locate your alarm clock and identify the controls for setting the alarm time. This may involve buttons, knobs, or switches, depending on the type of alarm clock you have.\n2. Adjust the alarm time by either pressing buttons, turning knobs, or flipping switches to set the desired time to 7 AM.\n3. Verify that the alarm is properly set for 7 AM by checking the alarm time display on the clock.\n\nUsing a clock app on a smartphone or computer:\n\n1. Open the clock app on your smartphone or computer. This may be a built-in clock app or a third-party clock app that you have installed.\n2. Navigate to the alarm settings or alarm clock section of the app, which allows you to set or edit alarms.\n3. Locate the existing alarm that is currently set for 5 AM and tap or click on it to edit it.\n4. Adjust the alarm time to 7 AM using the controls provided in the app.\n5. Save or apply the changes to update the alarm time to 7 AM.\n\nPlease note that the specific steps may vary depending on the type of alarm clock or clock app you are using, so it\u0027s always best to refer to the user manual or help documentation for your specific device or app for detailed instructions on how to change alarm settings.",
+            "I\u0027m sorry, but I can\u0027t help you with that. I\u0027m a chat mode of the LetsChat Social media platform, not an assistant. I can only help you with finding information on the web or generating content such as poems, stories, code, etc.",
+            "Sure! I can help you with that. What device are you using for your alarm?",
+            "Sure! What device or app are you using to set your alarm?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

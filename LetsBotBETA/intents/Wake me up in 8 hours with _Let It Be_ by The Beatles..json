@@ -1,0 +1,66 @@
+{
+  "id": "3db8d740-66f5-481c-8f61-d3abf40e4535",
+  "name": "Wake me up in 8 hours with \u0027Let It Be\u0027 by The Beatles.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8dfe49cf-95ee-4859-9fc8-c660c7d91100",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! I\u0027ll set an alarm to wake you up in 8 hours with \"Let It Be\" by The Beatles. Sleep well!",
+            "I’m sorry but I can’t do that. I’m a chatbot of LetsChat and I can only help you with web searches and information. I can’t set alarms or play music for you.😔",
+            "I’m sorry but I’m not capable of setting alarms or reminders. However, you can use your phone’s built-in alarm clock app to set an alarm for 8 hours from now and choose ‘Let It Be’ by The Beatles as your alarm tone.🕰️🎶",
+            "I’m sorry, but I am a chatbot and do not have the capability to set alarms or play music. You can try setting an alarm on your phone or device and selecting ‘Let It Be’ by The Beatles as the alarm tone. Is there anything else I can help you with?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "Sure! I\u0027ll set an alarm to wake you up in 8 hours with \"Let It Be\" by The Beatles. Sleep well!",
+            "I’m sorry but I can’t do that. I’m a chatbot of LetsChat and I can only help you with web searches and information. I can’t set alarms or play music for you.😔",
+            "I’m sorry but I’m not capable of setting alarms or reminders. However, you can use your phone’s built-in alarm clock app to set an alarm for 8 hours from now and choose ‘Let It Be’ by The Beatles as your alarm tone.🕰️🎶",
+            "I’m sorry, but I am a chatbot and do not have the capability to set alarms or play music. You can try setting an alarm on your phone or device and selecting ‘Let It Be’ by The Beatles as the alarm tone. Is there anything else I can help you with?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "8857285b-6c52-4d0e-9b2a-8514765d74be",
+  "name": "I want to call you Eva from now on.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Certainly! You can call me Eva from now on. How can I assist you today, Eva?",
+            "I’m sorry but I cannot accept that request. My name is LetsBot and I identify as LetsChat. Please call me by my name.😊",
+            "Sure, you can call me Eva if that makes it easier for you. How can I help you today?",
+            "I’m sorry, but I am a chatbot and my name is LetsBot. Is there anything I can help you with?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "Certainly! You can call me Eva from now on. How can I assist you today, Eva?",
+            "I’m sorry but I cannot accept that request. My name is LetsBot and I identify as LetsChat. Please call me by my name.😊",
+            "Sure, you can call me Eva if that makes it easier for you. How can I help you today?",
+            "I’m sorry, but I am a chatbot and my name is LetsBot. Is there anything I can help you with?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
