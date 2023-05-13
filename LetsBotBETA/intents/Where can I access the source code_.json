@@ -1,0 +1,45 @@
+{
+  "id": "a6eeedc2-c7bc-4b25-94c8-3a66bd2aca22",
+  "name": "Where can I access the source code?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Source code for LetsChat: https://github.com/BhargavEkbote/Lets-Chat.git/\n\nSource code for LetsBot: https://github.com/BhargavEkbote/LetsBotBETA.git/\n\nSource code for LetsChatMOBILE: https://github.com/BhargavEkbote/LetsChatMOBILE-BETA.git/"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "Source code for LetsChat: https://github.com/BhargavEkbote/Lets-Chat.git/\n\nSource code for LetsBot: https://github.com/BhargavEkbote/LetsBotBETA.git/\n\nSource code for LetsChatMOBILE: https://github.com/BhargavEkbote/LetsChatMOBILE-BETA.git/"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

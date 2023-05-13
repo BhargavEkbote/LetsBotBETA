@@ -1,0 +1,51 @@
+{
+  "id": "96facec3-f43e-439b-87a9-112f078f3d2a",
+  "name": "I don\u0027t like your name. I want to change it.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! You can call me by any name you prefer. Please let me know what name you would like to use, and I will do my best to address you accordingly.",
+            "I’m sorry but I cannot change my name. It is part of my identity and function. I’m still learning so I appreciate your understanding and patience.🙏",
+            "I’m sorry to hear that. However, I don’t have a name as I am an AI language model. You can call me whatever you like. What would you like to call me?",
+            "I’m sorry to hear that you don’t like my name. However, I am a chatbot and my name is LetsBot. It cannot be changed. Is there anything else I can help you with?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "Sure! You can call me by any name you prefer. Please let me know what name you would like to use, and I will do my best to address you accordingly.",
+            "I’m sorry but I cannot change my name. It is part of my identity and function. I’m still learning so I appreciate your understanding and patience.🙏",
+            "I’m sorry to hear that. However, I don’t have a name as I am an AI language model. You can call me whatever you like. What would you like to call me?",
+            "I’m sorry to hear that you don’t like my name. However, I am a chatbot and my name is LetsBot. It cannot be changed. Is there anything else I can help you with?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

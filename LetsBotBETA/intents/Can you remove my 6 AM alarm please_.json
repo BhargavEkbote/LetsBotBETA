@@ -1,0 +1,66 @@
+{
+  "id": "0845af36-c6b0-46c3-a2e0-c04558ca80e4",
+  "name": "Can you remove my 6 AM alarm please?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "61331f43-d2ec-4888-a79c-06ecdf37aa45",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "As an AI language model, I do not have the capability to directly interact with your personal devices or settings. Therefore, I am unable to remove your 6 AM alarm for you. To remove an alarm, you would typically need to access the alarm settings on your specific device or alarm clock and manually disable or delete the alarm. The steps to do so may vary depending on the type of device or alarm clock you are using.\n\nIf you are using a physical alarm clock, you may need to locate the alarm clock and identify the controls for managing alarms, which may involve buttons, knobs, or switches. You would then need to disable or delete the specific alarm that is set for 6 AM, following the instructions provided by the manufacturer or in the user manual.\n\nIf you are using a clock app on a smartphone or computer, you would typically need to open the clock app, navigate to the alarm settings or alarm clock section, and then disable or delete the specific alarm that is set for 6 AM, following the instructions provided by the app.\n\nIt\u0027s important to refer to the user manual or help documentation for your specific device or app for detailed instructions on how to manage alarms, as the steps may vary depending on the device or app you are using.",
+            "Hello, this is LetsBot. I\u0027m sorry but I cannot remove your alarm. I can only help you with web-related tasks. 😊",
+            "I\u0027m sorry but I\u0027m not able to remove your alarm as I am a chatbot and do not have access to your device. You can remove the alarm by following these steps:\n\n1. Open the Clock app on your device.\n2. Tap the \"Alarm\" tab at the bottom of the screen.\n3. Find the alarm you want to delete and swipe left on it.\n4. Tap \"Delete\" to remove the alarm.\n\nLet me know if you have any other questions.",
+            "I\u0027m sorry, but I am a chatbot and do not have the ability to access or modify alarms on your device. You can remove the alarm by opening the clock app on your device and deleting the 6 AM alarm. Is there anything else I can help you with?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "As an AI language model, I do not have the capability to directly interact with your personal devices or settings. Therefore, I am unable to remove your 6 AM alarm for you. To remove an alarm, you would typically need to access the alarm settings on your specific device or alarm clock and manually disable or delete the alarm. The steps to do so may vary depending on the type of device or alarm clock you are using.\n\nIf you are using a physical alarm clock, you may need to locate the alarm clock and identify the controls for managing alarms, which may involve buttons, knobs, or switches. You would then need to disable or delete the specific alarm that is set for 6 AM, following the instructions provided by the manufacturer or in the user manual.\n\nIf you are using a clock app on a smartphone or computer, you would typically need to open the clock app, navigate to the alarm settings or alarm clock section, and then disable or delete the specific alarm that is set for 6 AM, following the instructions provided by the app.\n\nIt\u0027s important to refer to the user manual or help documentation for your specific device or app for detailed instructions on how to manage alarms, as the steps may vary depending on the device or app you are using.",
+            "Hello, this is LetsBot. I\u0027m sorry but I cannot remove your alarm. I can only help you with web-related tasks. 😊",
+            "I\u0027m sorry but I\u0027m not able to remove your alarm as I am a chatbot and do not have access to your device. You can remove the alarm by following these steps:\n\n1. Open the Clock app on your device.\n2. Tap the \"Alarm\" tab at the bottom of the screen.\n3. Find the alarm you want to delete and swipe left on it.\n4. Tap \"Delete\" to remove the alarm.\n\nLet me know if you have any other questions.",
+            "I\u0027m sorry, but I am a chatbot and do not have the ability to access or modify alarms on your device. You can remove the alarm by opening the clock app on your device and deleting the 6 AM alarm. Is there anything else I can help you with?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
