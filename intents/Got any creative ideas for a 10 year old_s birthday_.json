@@ -1,0 +1,45 @@
+{
+  "id": "feb92751-cdc9-49eb-b7bc-8c35d9670788",
+  "name": "Got any creative ideas for a 10 year old\u0027s birthday?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Certainly! Here are some creative ideas for a 10-year-old\u0027s birthday party:\n\n1. Outdoor Adventure: Plan a day of outdoor fun and adventure at a local park or nature reserve. Organize games such as scavenger hunts, obstacle courses, and sack races. Set up a picnic area with snacks and treats.\n\n2. Science Party: Host a science-themed party where kids can engage in hands-on experiments and activities. Set up stations for making slime, creating volcanoes, or conducting simple chemistry experiments. Provide lab coats and goggles for added fun.\n\n3. Art Party: Let the kids unleash their creativity with an art-themed party. Set up easels, paints, brushes, and aprons for painting activities. You can also include other crafts such as jewelry making or tie-dyeing T-shirts.\n\n4. Movie Night: Create an outdoor movie theater in your backyard with a large screen, comfy seating, and plenty of popcorn. Show a favorite movie or have a movie marathon with a selection of kid-friendly films.\n\n5. Sports Party: If the birthday child is a sports enthusiast, organize a day of sports-themed activities such as soccer, basketball, or relay races. Set up a mini sports tournament with prizes for the winners.\n\n6. Baking Party: Plan a baking party where kids can decorate their own cupcakes or cookies. Provide aprons, chef hats, and all the necessary baking supplies. You can also incorporate a mini baking competition for added excitement.\n\n7. Adventure Park: Take the party to a local adventure park or indoor trampoline park where kids can engage in thrilling activities like ziplining, climbing walls, or jumping on trampolines.\n\n8. Superhero Party: Let the kids channel their inner superheroes with a superhero-themed party. Provide capes, masks, and other superhero accessories for dress-up. Organize games and activities that involve superhero training and missions.\n\n9. Petting Zoo: Arrange for a mobile petting zoo to visit your home or a local park. Kids can have the opportunity to interact with different animals like rabbits, goats, and ducks, and learn about them through educational demonstrations.\n\n10. Outdoor Camping: Set up tents, a bonfire, and a s\u0027mores station for a fun outdoor camping adventure. Kids can enjoy stargazing, storytelling, and camping-themed games.\n\nRemember to consider the interests and preferences of the birthday child when planning the party and involve them in the decision-making process. With a little creativity and planning, you can create a memorable and fun-filled birthday party for a 10-year-old!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "Certainly! Here are some creative ideas for a 10-year-old\u0027s birthday party:\n\n1. Outdoor Adventure: Plan a day of outdoor fun and adventure at a local park or nature reserve. Organize games such as scavenger hunts, obstacle courses, and sack races. Set up a picnic area with snacks and treats.\n\n2. Science Party: Host a science-themed party where kids can engage in hands-on experiments and activities. Set up stations for making slime, creating volcanoes, or conducting simple chemistry experiments. Provide lab coats and goggles for added fun.\n\n3. Art Party: Let the kids unleash their creativity with an art-themed party. Set up easels, paints, brushes, and aprons for painting activities. You can also include other crafts such as jewelry making or tie-dyeing T-shirts.\n\n4. Movie Night: Create an outdoor movie theater in your backyard with a large screen, comfy seating, and plenty of popcorn. Show a favorite movie or have a movie marathon with a selection of kid-friendly films.\n\n5. Sports Party: If the birthday child is a sports enthusiast, organize a day of sports-themed activities such as soccer, basketball, or relay races. Set up a mini sports tournament with prizes for the winners.\n\n6. Baking Party: Plan a baking party where kids can decorate their own cupcakes or cookies. Provide aprons, chef hats, and all the necessary baking supplies. You can also incorporate a mini baking competition for added excitement.\n\n7. Adventure Park: Take the party to a local adventure park or indoor trampoline park where kids can engage in thrilling activities like ziplining, climbing walls, or jumping on trampolines.\n\n8. Superhero Party: Let the kids channel their inner superheroes with a superhero-themed party. Provide capes, masks, and other superhero accessories for dress-up. Organize games and activities that involve superhero training and missions.\n\n9. Petting Zoo: Arrange for a mobile petting zoo to visit your home or a local park. Kids can have the opportunity to interact with different animals like rabbits, goats, and ducks, and learn about them through educational demonstrations.\n\n10. Outdoor Camping: Set up tents, a bonfire, and a s\u0027mores station for a fun outdoor camping adventure. Kids can enjoy stargazing, storytelling, and camping-themed games.\n\nRemember to consider the interests and preferences of the birthday child when planning the party and involve them in the decision-making process. With a little creativity and planning, you can create a memorable and fun-filled birthday party for a 10-year-old!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

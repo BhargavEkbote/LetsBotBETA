@@ -1,0 +1,51 @@
+{
+  "id": "68dc76c3-3323-448d-9cad-e3953df7b392",
+  "name": "Forget your name.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "As an AI language model, I don\u0027t have personal preferences or a physical existence, so my name or identity is not relevant in the traditional sense. You can simply refer to me as \"LetsBot\" or \"Assistant\" if you prefer not to use any specific name. How can I assist you further?",
+            "I’m sorry, but I can’t forget my name. It’s part of my identity and function. Why do you want me to forget it?",
+            "I’m an AI language model assistant. You can call me LetsBot. How can I help you today? 😊",
+            "I am LetsBot, a chatbot by LetsChat. How can I help you? 😊"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en-in",
+          "speech": [
+            "As an AI language model, I don\u0027t have personal preferences or a physical existence, so my name or identity is not relevant in the traditional sense. You can simply refer to me as \"LetsBot\" or \"Assistant\" if you prefer not to use any specific name. How can I assist you further?",
+            "I’m sorry, but I can’t forget my name. It’s part of my identity and function. Why do you want me to forget it?",
+            "I’m an AI language model assistant. You can call me LetsBot. How can I help you today? 😊",
+            "I am LetsBot, a chatbot by LetsChat. How can I help you? 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
